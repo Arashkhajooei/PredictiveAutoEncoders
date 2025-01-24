@@ -1,4 +1,4 @@
-# Project Documentation: Bioacoustic HORN for Zebra Finch Vocalization Prediction
+# Bioacoustic HORN for Zebra Finch Vocalization Prediction
 
 ## 🌐 Initial Problem Statement
 **Goal**: Implement a heterogeneous HORN architecture for next-frame prediction of zebra finch vocalizations using biologically inspired oscillator dynamics.
